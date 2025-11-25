@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Project Maintainer**: Gourav Dange
-- GitHub: [@yourusername](https://github.com/Rathox110)
+- GitHub: [@Rathoxx110](https://github.com/Rathox110)
 - Email: gauravdange26@gmail.com
 
 ---
