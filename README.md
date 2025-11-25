@@ -69,7 +69,7 @@ Rexa is a comprehensive desktop application for malware analysis and reverse eng
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rexa.git
+git clone https://github.com/Rathox110/rexa
 cd rexa
 
 # Install dependencies
